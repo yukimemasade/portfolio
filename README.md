@@ -1,39 +1,34 @@
 # portfolio
 Research work during the course of study from SkyPro
-This repository contains my analytics portfolio, including dashboards, data analysis research, and SQL solutions for various tasks.
+This repository contains my analytics portfolio with examples of data analysis, dashboards, and SQL solutions based on a retail dataset.
 
-## Contents
+## Projects
 
-### 1. Dashboards & Presentation
-A presentation with dashboards based on retailer data analysis.
-The dashboards demonstrate:
-- key business metrics
-- trends and dynamics
-- insights for decision-making
+### 1. Retail Dashboards & Presentation
+A presentation with dashboards built on retailer data.
+
+The dashboards include:
+- sales dynamics
+- key performance metrics
+- data-driven insights for business decisions
 
 Tools:
-- BI dashboards (screenshots included)
-- SQL for data preparation
+- SQL (data preparation)
+- BI dashboards (visual analysis)
 
 Folder:
-- /dashboards
 - /presentation
 
 ---
 
-### 2. Retail Data Research
-A document with exploratory data analysis and insights based on a retailer dataset.
+### 2. Retail Data Analysis Research
+A document with exploratory data analysis of a retailer dataset.
 
-The research includes:
+The analysis covers:
 - data cleaning and preparation
 - descriptive statistics
-- analysis of sales dynamics
+- sales and customer behavior analysis
 - insights and conclusions
-
-Tools:
-- SQL
-- analytical reasoning
-- documentation of findings
 
 Folder:
 - /research
@@ -41,13 +36,12 @@ Folder:
 ---
 
 ### 3. SQL Tasks
-A set of SQL scripts solving different analytical tasks.
+SQL scripts solving analytical tasks related to business data.
 
 Examples:
 - aggregations and joins
-- cohort and funnel logic
 - window functions
-- business-related analytical queries
+- analytical queries for business metrics
 
 Folder:
 - /sql
@@ -58,9 +52,10 @@ Folder:
 - SQL (PostgreSQL)
 - Data analysis
 - Business metrics
-- Dashboards & data visualization
+- Data visualization
 - Analytical thinking
 
 ## Notes
 All projects are educational and based on open or simulated data.
-The repository demonstrates my approach to data analysis and problem-solving.
+The repository demonstrates my analytical approach and problem-solving skills.
+
